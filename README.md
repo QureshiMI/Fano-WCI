@@ -1,0 +1,3 @@
+We provide two supplementary files accompanying the manuscript “On the classification of smooth Fano weighted complete intersections.” The first file contains the complete list of smooth Fano varieties of dimensions 6–10 that can be realized as weighted
+complete intersections in some weighted projective space. The second file lists, for the same range of dimensions, the candidates that cannot be realized as smooth weighted complete intersections in any weighted projective space. Both lists were produced
+by our algorithmic procedure, which exhaustively enumerates all potential candidates that may exist as weighted complete intersections.
